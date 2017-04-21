@@ -1,0 +1,17 @@
+body {
+    background-image: url("city.jpg");
+}
+h1 {
+  color: #DDA0DD;
+  text-align: center;
+  font-family: "Courier New", monospace;
+  font-size: 110px
+}
+
+h3 {
+  color:#EEE8AA;
+  text-align: center;
+  font-family: "Georgia", serif;
+  font-style: italic;
+  font-size: 30px
+}
